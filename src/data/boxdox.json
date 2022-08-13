@@ -7,14 +7,28 @@
   "theme": "dracula",
   "links": [
     {
-      "name": "10k Independents",
+      "name": "10k Independents Project",
       "url": "https://10k.city",
       "icon": "link"
     },
-    
     {
       "name": "Opeola's 10k Letter",
       "url": "https://10k.city/hello/",
+      "icon": "link"
+    },
+    {
+      "name": "Indy Hall",
+      "url": "https://indyhall.irg",
+      "icon": "link"
+    },
+    {
+      "name": "The Tiny MBA",
+      "url": "https://tiny.mba/",
+      "icon": "link"
+    },
+    {
+      "name": "Stacking the Bricks",
+      "url": "https://stackingthebricks.com/",
       "icon": "link"
     },
     {
