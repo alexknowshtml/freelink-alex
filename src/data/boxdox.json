@@ -1,19 +1,25 @@
 {
-  "title": "boxdox's links",
-  "tagline": "i code stuff",
-  "slug": "boxdox",
+  "title": "Alex's Links",
+  "tagline": "Click around to see what I'm up to",
+  "slug": "alex",
   "main": true,
-  "profilePicture": "https://avatars.dicebear.com/api/personas/boxdox.svg",
+  "profilePicture": "http://coworkingafrica.com/wp-content/uploads/2014/10/Alex-Hillman.jpg",
   "theme": "dracula",
   "links": [
     {
-      "name": "Github",
-      "url": "https://github.com/boxdox",
-      "icon": "github"
+      "name": "10k Independents",
+      "url": "https://10k.city",
+      "icon": "link"
+    },
+    
+    {
+      "name": "Opeola's 10k Letter",
+      "url": "https://10k.city/hello/",
+      "icon": "link"
     },
     {
       "name": "Twitter",
-      "url": "https://twitter.com/vaibhav_kandwal",
+      "url": "https://twitter.com/alexhillman",
       "icon": "twitter"
     }
   ]
