@@ -1,40 +1,39 @@
 {
   "title": "Alex's Links",
   "tagline": "Click around to see what I'm up to",
-  "slug": "alex",
-  "main": true,
+  "slug": "index",
+  "main": false,
   "profilePicture": "http://coworkingafrica.com/wp-content/uploads/2014/10/Alex-Hillman.jpg",
   "theme": "dracula",
   "links": [
-    {
-      "name": "10k Independents Project",
-      "url": "https://10k.city",
-      "icon": "link"
-    },
-    {
-      "name": "Opeola's 10k Letter",
-      "url": "https://10k.city/hello/",
-      "icon": "link"
-    },
-    {
-      "name": "Indy Hall",
-      "url": "https://indyhall.irg",
-      "icon": "link"
-    },
-    {
-      "name": "The Tiny MBA",
-      "url": "https://tiny.mba/",
-      "icon": "link"
-    },
-    {
-      "name": "Stacking the Bricks",
-      "url": "https://stackingthebricks.com/",
-      "icon": "link"
-    },
-    {
-      "name": "Twitter",
-      "url": "https://twitter.com/alexhillman",
-      "icon": "twitter"
-    }
-  ]
+  {
+    "name": "10k Independents Project",
+    "url": "https://10k.city",
+    "icon": "link"
+  },
+  {
+    "name": "Opeola's 10k Letter",
+    "url": "https://10k.city/hello/",
+    "icon": "link"
+  },
+  {
+    "name": "Indy Hall",
+    "url": "https://indyhall.irg",
+    "icon": "link"
+  },
+  {
+    "name": "The Tiny MBA",
+    "url": "https://tiny.mba/",
+    "icon": "link"
+  },
+  {
+    "name": "Stacking the Bricks",
+    "url": "https://stackingthebricks.com/",
+    "icon": "link"
+  },
+  {
+    "name": "Twitter",
+    "url": "https://twitter.com/alexhillman",
+    "icon": "twitter"
+  }]
 }
