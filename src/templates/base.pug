@@ -20,7 +20,7 @@ html(lang="en")
 
       div(class="links")
         each link in links
-          a(class="link" href=`${link.url}` target="_blank" rel="noopener noreferrer")
+          a(class="link" href=`${link.url}` target="_blank" rel="me noopener")
             if link.icon
               i(class=`fab fa-${link.icon}`)
             p #{link.name}
