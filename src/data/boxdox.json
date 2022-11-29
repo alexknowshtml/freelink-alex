@@ -32,6 +32,12 @@
     "icon": "link"
   },
   {
+    "name": "Mastodon/Jawns.club",
+    "url": "https://jawns.club/@alexhillman",
+    "icon": "mastodon",
+    "rel": "me"
+  },
+  {
     "name": "Twitter",
     "url": "https://twitter.com/alexhillman",
     "icon": "twitter"
