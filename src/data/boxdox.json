@@ -7,6 +7,11 @@
   "theme": "dracula",
   "links": [
   {
+    "name": "State of the Race",
+    "url": "https://10k.city/mayor/state-of-the-race/",
+    "icon": "link"
+  },
+    {
     "name": "10k Independents Project",
     "url": "https://10k.city",
     "icon": "link"
