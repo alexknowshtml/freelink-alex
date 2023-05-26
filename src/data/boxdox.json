@@ -7,23 +7,24 @@
   "theme": "dracula",
   "links": [
   {
-    "name": "🏛️ State of the Race",
-    "url": "https://10k.city/mayor/state-of-the-race/",
+    "name": "12 things we learned about Cherelle Parker",
+    "url": "https://10k.city/mayor/11-things-cherelle-parker/",
     "icon": "link"
-  },
-    {
+  }
+  {
     "name": "10k Independents Project",
     "url": "https://10k.city",
     "icon": "link"
   },
   {
-    "name": "Opeola's 10k Letter",
-    "url": "https://10k.city/hello/",
+    "name": "Political Advocacy",
+    "url": "https://10k.city/advocacy/",
     "icon": "link"
   },
+
   {
     "name": "Indy Hall",
-    "url": "https://indyhall.irg",
+    "url": "https://indyhall.org",
     "icon": "link"
   },
   {
