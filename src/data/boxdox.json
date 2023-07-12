@@ -7,6 +7,11 @@
   "theme": "dracula",
   "links": [
   {
+    "name": "RSVP for Makers & Merchants Sunset Social",
+    "url": "https://lu.ma/makermerchantsocial",
+    "icon": "link"
+  },
+    {
     "name": "How 'New Game Plus' kept Indy Hall alive",
     "url": "https://www.youtube.com/watch?v=waTcLygIqso",
     "icon": "link"
